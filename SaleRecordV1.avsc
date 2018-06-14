@@ -1,0 +1,12 @@
+{
+	"type": "record",
+    "namespace": "org.devopsicon.kafka.consumer.mongo",
+	"name": "Sale",
+	"fields":[
+		{
+            "name": "amount",
+            "type": "float",
+            "doc": "Total Amount of Sale"
+        }
+	]
+}
